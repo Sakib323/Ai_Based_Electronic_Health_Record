@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119947202706",
+    "project_id": "electronic-health-record-cb3d9",
+    "storage_bucket": "electronic-health-record-cb3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119947202706:android:4c49a0124210e401ff564b",
+        "android_client_info": {
+          "package_name": "com.itsolution.electronichealthrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6r1Q8nfVPNbsKR2YkNLRvjVU7y7ej0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Send or Share Report">
+        <menu>
+            <item android:id="@+id/Share"
+                android:title="Share"
+                android:icon="@drawable/ic_baseline_share_24"/>
+            <item android:id="@+id/scanner"
+                android:title="Qr Code Scanner"
+                android:icon="@drawable/ic_baseline_qr_code_scanner_24"/>
+        </menu>
+    </item>
+
+
+    <item android:title="Handle">
+        <menu>
+            <item android:id="@+id/physician"
+                android:title="Physician List"
+                android:icon="@drawable/ic_baseline_view_list_24"/>
+            <item android:id="@+id/shared_report"
+                android:title="Other's Report"
+                android:icon="@drawable/ic_baseline_document_scanner_24"/>
+        </menu>
+    </item>
+
+    <item android:title="Physician">
+        <menu>
+            <item android:id="@+id/verify_as_a_doctor"
+                android:title="Verify as Physician"
+                android:icon="@drawable/ic_baseline_person_add_24"/>
+
+            <item android:id="@+id/Set_Appointment_Schedule"
+                android:title="Set Appointment Schedule"
+                android:icon="@drawable/ic_baseline_schedule_24"/>
+        </menu>
+    </item>
+
+
+
+
+
+
+</menu>

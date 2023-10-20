@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/bacground_for_dialog.xml" value="0.13" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/back_button.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/background.xml" value="0.13" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/background_for_edit_text.xml" value="0.13" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/location.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/drawable/phone.xml" value="0.1385" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_add_report_document.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_ai_function.xml" value="0.17528858486532706" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_login.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_login_or_register.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_login_register.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_others_report.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_register.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_scanner.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_settings.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_splash_screen.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/activity_view_all_report.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/add_report_img.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/dialog_temp.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/fragment_first.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/header.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/location.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/other_report_holder.xml" value="0.22" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/qr_code_show.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/layout/show_all_record.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/menu/header.xml" value="0.27704147071398033" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/project/ElectronicHealthRecord/app/src/main/res/menu/main_menu.xml" value="0.27704147071398033" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
